@@ -176,6 +176,9 @@ li{
     flex-direction: column;
 }
 
+.FollowCourseMarg{
+    margin-bottom: 20px;
+}
 
 .FollowCourse{
     font-size: xx-large;
@@ -186,6 +189,7 @@ li{
     border-radius: 8px;
     color: rgb(68, 43, 43);
     letter-spacing: 0.5pt;
+    
     margin-right: 80px;
     text-decoration: auto;
     text-align: center;
